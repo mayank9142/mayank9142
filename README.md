@@ -1,4 +1,4 @@
-![logo](https://github.com/mayank9142/mayank9142/blob/main/github_banner1.png)
+![logo](https://github.com/mayank9142/mayank9142/blob/main/github_banner.jpg)
 
 🪐 I’m currently working on improving my JavaScript skills, exploring React and Redux, and building modern frontend projects.<br>👯 I’m looking to collaborate on creative web projects, especially with a focus on modern design and animations.<br>🤝 I’m starting with React and Redux, diving deep into their core concepts and ecosystem.<br>🌱 I’m currently learning APIs and statistics to support my journey into generative AI.<br>💬 Ask me about web development fundamentals, how to build responsive UIs, or best practices for clean code.
 
