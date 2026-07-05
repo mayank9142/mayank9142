@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayank9142/mayank9142/main/github-header-banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/mayank9142/mayank9142/main/my_banner.png" alt="Banner" width="100%">
 </p>
+
 # About Me:
 - Passionate about building **Machine Learning solutions** and **modern web applications** while continuously expanding my technical expertise.
 - Currently exploring **Machine Learning**, **Generative AI**, and **Statistics** with hands-on experience in the Python data science ecosystem.
