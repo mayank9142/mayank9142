@@ -3,15 +3,16 @@
 </p>
 
 # About Me:
-- Passionate about building **Machine Learning solutions** and **modern web applications** while continuously expanding my technical expertise.
-- Currently exploring **Machine Learning**, **Generative AI**, and **Statistics** with hands-on experience in the Python data science ecosystem.
-- Experienced with **Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn,** and **Jupyter Notebook** for data analysis and machine learning workflows.
-- Proficient in **JavaScript, React, Redux, REST APIs, Git,** and **GitHub**, with experience developing responsive and scalable frontend applications.
-- Familiar with **component-based architecture**, **state management**, **API integration**, and software development best practices.
-- Actively strengthening my problem-solving abilities through consistent practice of **Data Structures & Algorithms (DSA)** and algorithmic programming.
-- Continuously learning by building real-world projects and exploring emerging technologies in **AI**, **Machine Learning**, and **Web Development**.
-- Open to collaborating on **Machine Learning**, **AI**, **Frontend Development**, and **Open Source** projects.
-- Ask me about **Python, Machine Learning, JavaScript, React, Redux, REST APIs, Git/GitHub,** and **Data Structures & Algorithms**.
+
+* Passionate about **Machine Learning**, **Generative AI**, and **modern web development**, continuously building real-world projects.
+* Skilled in **Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn,** and **Jupyter Notebook** for data analysis and ML.
+* Proficient in **JavaScript, React, Redux, REST APIs, Git,** and **GitHub**, with experience in responsive, scalable web applications.
+* Familiar with **component-based architecture, state management, API integration,** and software development best practices.
+* Continuously improving **Data Structures & Algorithms (DSA)** through consistent problem-solving.
+* Exploring emerging technologies in **AI**, **Machine Learning**, and **Web Development**.
+* Open to collaborating on **Machine Learning**, **AI**, **Frontend Development**, and **Open Source** projects.
+* Ask me about **Python, Machine Learning, JavaScript, React, Redux, REST APIs, Git/GitHub,** and **DSA**.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maybefrank_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-soni-768ab028a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imayank9142) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imayank.tech@gmail.com) 
